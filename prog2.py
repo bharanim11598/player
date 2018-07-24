@@ -1,5 +1,5 @@
 n=int(input())
-f=1
+s=1
 for i in range(1,n+1):
-    f=f*i
-print(f)
+    s=s*i
+print(int(s))
